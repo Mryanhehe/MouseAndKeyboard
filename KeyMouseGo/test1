@@ -1,0 +1,8 @@
+[
+ [3000, "EM", "mouse left down", [100, 200]], 
+ [50,   "EM", "mouse left up", [100, 200]], 
+ [1000, "EK", "key down", "f"], 
+ [50,   "EK", "key up", "f"], 
+ [2000, "EM", "mouse right down", [300, 400]], 
+ [50,   "EM", "mouse right up", [300, 400]]
+]

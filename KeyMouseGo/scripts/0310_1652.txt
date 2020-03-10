@@ -1,0 +1,18 @@
+[
+ [0,"EM","mouse left down",[878,1053]],
+ [129,"EM","mouse left up",[878,1053]],
+ [684,"EM","mouse left down",[878,1053]],
+ [131,"EM","mouse left up",[878,1053]],
+ [3110,"EM","mouse left down",[894,1065]],
+ [131,"EM","mouse left up",[894,1065]],
+ [1281,"EM","mouse left down",[894,1065]],
+ [131,"EM","mouse left up",[894,1065]],
+ [6903,"EM","mouse left down",[894,1065]],
+ [130,"EM","mouse left up",[894,1065]],
+ [545,"EM","mouse left down",[894,1065]],
+ [130,"EM","mouse left up",[894,1065]],
+ [1386,"EM","mouse left down",[894,1065]],
+ [1466,"EM","mouse left up",[894,1065]],
+ [791,"EM","mouse left down",[894,1065]],
+ [591,"EM","mouse left up",[894,1065]]
+]
